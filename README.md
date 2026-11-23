@@ -39,10 +39,10 @@ tsp_dataset/
 │
 ├── results/
 │   └── data/
-│   │   ├── generate_dataset.py
-│   │   ├── make_student_csvs.py
-│   │   ├── requirements.txt
-│   │   └── README.md
+├── generate_dataset.py
+├── make_student_csvs.py
+├── requirements.txt
+└── README.md
 ```
 
 **Descripción de los archivos principales:**
